@@ -2,10 +2,10 @@
 void main()
 {
 int NUM , a , b , SUM;
-printf ("Enter a Number Range: ");
+printf ("Enter a number range upto which you want the series: ");
 scanf ("%d" , &NUM);
 a = 0;
-b = 1;
+:Xb = 1;
 printf ("Fibonacci Series");
 while ( a <= NUM )
  {
